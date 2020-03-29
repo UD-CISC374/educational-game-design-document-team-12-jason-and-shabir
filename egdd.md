@@ -6,17 +6,14 @@
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: Elevator Saga game - https://play.elevatorsaga.com/
+- Elevator Saga game - https://play.elevatorsaga.c
+  - Medium: Games
   - Explanation: The game 'Elevator Saga' is the heaviest influence for our game.  We had the idea to make a game where you play by         writing coding and researched online to see if it had been done before.  This is how we discovered 'Elevator Saga', and it's             structure served as the influence for how we structured our game.
-- *Influence #2*:
-  - Medium: Turn-based RPG games
+- Turn-based RPG games
+  - Medium: Games
   - Explanation: Our game incorporates many of the fantasy elements found in classic RPG games such as Chrono Trigger and the Final         Fantasy series.
 
 ## Core Gameplay Mechanics (Brief)
-
-*Give a very high-level description of any core gameplay mechanics*
-
 - Play by programming: Gameplay will forego traditional input devices such as a mouse or gamepad and be controlled via writing code into   a live text editor.  Everything from movement, inventory management, to battle will be handled via code
 - Exporation: Players are placed in a game world where they must find certain items and complete certain objectives to advance in the     game
 - Equipment/Inventory: Players may equip weapons/armor they find in the game to their character, providing different benefits.  They       will also have a persistent inventory throughout the game
@@ -30,11 +27,12 @@ Introductory javascript/typescript
 
 ## Target Audiences
 
-*Who are your learners?*
+- New programmers who have taken at least one introductory programming course
+- Experienced programmers who are fans of RPGs
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+- This game would be primarily be used as practice for students already learning basic programming
 
 ## Learning Objectives
 
@@ -46,10 +44,11 @@ Introductory javascript/typescript
 
 ## Prerequisite Knowledge
 
-*What do they need to know prior to trying this game?*
-
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+Prior to playing, students should be able to:
+- Assign a value to a variable
+- Define and use for and while loops
+- Define and use if/else statements
+- Call a function
 
 ## Assessment Measures
 
@@ -59,27 +58,18 @@ Introductory javascript/typescript
 
 # What sets this project apart?
 
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- This game incorporates learning to code into a very popular genre of games, which doesn't appear to have been done before
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This is a single player game.  The player will interact with the game by writing code into a a code editor within the game window
 
 ## Player Modes
 
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
-
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+- World Map: Players traverse the game map to reach the next enemy encounter.  At this phase the inventory system may be accessed
+- Battle: Players engage with an enemy and complete coding challenges to get through the encounter
 
 # Gameplay Objectives
 

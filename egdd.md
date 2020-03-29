@@ -145,7 +145,8 @@ This is a single player game.  The player will interact with the game by writing
   - Fire enemy: The enemy at the fire element stage
   - Final boss: The final boss that completes the game
   
-- Textures: N/A
+- Textures:
+  - Icons for weapons/armor and other inventory items
 
 - Environment Art/Textures:
   - World Map: A world map that clearly identifies the region the player is in.  Lava/volcanoes for fire, oceans for water, tall             mountains and trees for earth, snow for ice

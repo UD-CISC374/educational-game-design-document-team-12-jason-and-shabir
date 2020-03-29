@@ -6,17 +6,22 @@
 
 ## Influences (Brief)
 
-- Elevator Saga game - https://play.elevatorsaga.c
+- Elevator Saga game - https://play.elevatorsaga.com
   - Medium: Games
   - Explanation: The game 'Elevator Saga' is the heaviest influence for our game.  We had the idea to make a game where you play by         writing coding and researched online to see if it had been done before.  This is how we discovered 'Elevator Saga', and it's             structure served as the influence for how we structured our game.
+  
 - Turn-based RPG games
   - Medium: Games
   - Explanation: Our game incorporates many of the fantasy elements found in classic RPG games such as Chrono Trigger and the Final         Fantasy series.
 
 ## Core Gameplay Mechanics (Brief)
+
 - Play by programming: Gameplay will forego traditional input devices such as a mouse or gamepad and be controlled via writing code into   a live text editor.  Everything from movement, inventory management, to battle will be handled via code
+
 - Exporation: Players are placed in a game world where they must find certain items and complete certain objectives to advance in the     game
+
 - Equipment/Inventory: Players may equip weapons/armor they find in the game to their character, providing different benefits.  They       will also have a persistent inventory throughout the game
+
 - Turn/timer based battle: Battle system will operate both by turn and by timer.  On the player's turn, they will have a specified         amount of time to complete a coding problem before their turn ends.  Their success of failure will determine if they are able to         attack
 
 # Learning Aspects
@@ -128,23 +133,26 @@ This is a single player game.  The player will interact with the game by writing
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
-
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
-- Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
-- Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+  - Warrior: one of the playable characters for the player
+  - Mage: one of the playable characters for the player
+  - Ranger: one of the playable characters for the player
+  - Earth enemy: The enemy at the earth element stage
+  - Water enemy: The enemy at the water element stage
+  - Ice enemy: The enemy at the ice element stage
+  - Fire enemy: The enemy at the fire element stage
+  - Final boss: The final boss that completes the game
+  
+- Textures: N/A
 
+- Environment Art/Textures:
+  - World Map: A world map that clearly identifies the region the player is in.  Lava/volcanoes for fire, oceans for water, tall             mountains and trees for earth, snow for ice
+  - Fire zone: A background featuring red/organge lava and molten rock
+  - Ice zone: A background featuring lots snow/ice.  White/light blue themed
+  - Water zone: A background that is underwater or coastal
+  - Earth zone: A background featuring mountains and trees.  Lots of brown/green
 
 ## Audio
 

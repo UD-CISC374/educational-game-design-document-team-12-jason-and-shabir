@@ -7,29 +7,26 @@
 ## Influences (Brief)
 
 - *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: Elevator Saga game - https://play.elevatorsaga.com/
+  - Explanation: The game 'Elevator Saga' is the heaviest influence for our game.  We had the idea to make a game where you play by         writing coding and researched online to see if it had been done before.  This is how we discovered 'Elevator Saga', and it's             structure served as the influence for how we structured our game.
 - *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: Turn-based RPG games
+  - Explanation: Our game incorporates many of the fantasy elements found in classic RPG games such as Chrono Trigger and the Final         Fantasy series.
 
 ## Core Gameplay Mechanics (Brief)
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Play by programming: Gameplay will forego traditional input devices such as a mouse or gamepad and be controlled via writing code into   a live text editor.  Everything from movement, inventory management, to battle will be handled via code
+- Exporation: Players are placed in a game world where they must find certain items and complete certain objectives to advance in the     game
+- Equipment/Inventory: Players may equip weapons/armor they find in the game to their character, providing different benefits.  They       will also have a persistent inventory throughout the game
+- Turn/timer based battle: Battle system will operate both by turn and by timer.  On the player's turn, they will have a specified         amount of time to complete a coding problem before their turn ends.  Their success of failure will determine if they are able to         attack
 
 # Learning Aspects
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Introductory javascript/typescript
 
 ## Target Audiences
 

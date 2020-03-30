@@ -18,13 +18,13 @@ this game has an rpg design and a fantasy theme to it. the game can be won by ge
 
 ## Core Gameplay Mechanics (Brief)
 
-- Play by programming: Gameplay will forego traditional input devices such as a mouse or gamepad and be controlled via writing code into   a live text editor.  Everything from movement, inventory management, to battle will be handled via code
+- Play by programming: Gameplay will forego traditional input devices and be controlled by writing code
 
 - Exporation: Players are placed in a game world where they must find certain items and complete certain objectives to advance in the     game
 
-- Equipment/Inventory: Players may equip weapons/armor they find in the game to their character, providing different benefits.  They       will also have a persistent inventory throughout the game
+- Equipment/Inventory: Equippable weapons/armor are found in the game and managed through an inventory system
 
-- Turn/timer based battle: Battle system will operate both by turn and by timer.  On the player's turn, they will have a specified         amount of time to complete a coding problem before their turn ends.  Their success of failure will determine if they are able to         attack
+- Turn/timer based battle:  Turn-based battle featuring timed coding challenges
 
 # Learning Aspects
 
@@ -43,11 +43,13 @@ Introductory javascript/typescript
 
 ## Learning Objectives
 
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
+- Variable assignment: by the end of the game, given a variable, students will be able to assign values of the correct type to it with     100% accuracy
 
-- *assignment of variables*: *by the end of this game, given a variable, students will be able to assign values to that variable.*
-- *iterations*: *by the end of this game, students given a task that requires several iterations, will be able to build a "for loop" to accomplish that task.  *
-- *function calls*: *by the end of this game, students will be able to show how to call a function given the function*
+- Loops: by the end of the game, students will be able to solve basic tasks iteratively with a for or while loop
+
+- If/Else Statements: by the end of the game, students will be able to solve basic conditional tasks using an if/else statement
+
+- Function calls: by the end of this game, students will be able to show how to call a given function and supply it with the correct       arguments needed to run
 
 ## Prerequisite Knowledge
 
@@ -59,11 +61,12 @@ Prior to playing, students should be able to:
 
 ## Assessment Measures
 
-students will be given problems to solve during the game and their answers to the problem will determine how far they have gotten along in the lesson. also the enemy health and player health will display their progression.
+A timed assessment will be distributed before and after the game featuring problems similar to those faced during gameplay
 
 # What sets this project apart?
 
 - This game incorporates learning to code into a very popular genre of games, which doesn't appear to have been done before
+- The game is a learning tool, but also strives to be a game that is fun to play
 
 # Player Interaction Patterns and Modes
 
@@ -91,7 +94,18 @@ This is a single player game.  The player will interact with the game by writing
 solve the question being asked. if correct, player will atack enemy. if wrong, enemy will attack player. 
 
 # Rules
-there will be health potions, armor weapons. these will affect the game by increasing health and also increasing the damage to the enemy player. these pickups will be limited. 
+
+- A player has a certain amount of time to answer a coding challenge displayed on screen
+
+- Answers that are syntactically incorrect will face a harsher penalty (stronger enemy attack)
+  than those that are simply incorrect
+  
+- Challenges that are deemed to be more challenging (for loop vs assignment) will provide a greater
+  benefit to the player (stronger player attack)
+  
+- Weapons and armor may also have an effect on the effectiveness of attack/defense
+
+- Coding challenges become more difficult with each battle
 
 # Objects/Entities
 
@@ -99,10 +113,13 @@ weapons, sheild, potions.
 
 ## Core Gameplay Mechanics (Detailed)
 
-- live coding: the controls in this game are basically how you make attacks, defend etc... players will write code in a live coding       environment via codemirror, where their code will be injected into the game to be evaluted for accuracy. they will be asked to answer   problems by writing code. once their code is submitted by a submit button, we will run a test on his code to make sure it works         properly.   
-- turn based game : the player will be given a time limit. the time will depend on the diffuctulty of the problem. if the problem is     easy, they will get 5 seconds. if it is hard then 10 seconds. an example of an easy challenge will be an assignment of a variable. an   example of a difficult problem would be a for loop. if the player gets the answer right, he will be able to attack the enemy and       damage them. if the fail, the enemy will attack the player. 
-- Equipment/Inventory: player will get the opportunity to pick up an item such as armor or a potion, that will help them in battle.       they will be able to pick up/ use the inventory via code. for example if a sheild presents itself in the game, the player will type     something like: pickUpShield(); which calls a function to pick up the item. the armor will act as extra health in such a way that it   does not affect     the main health of the player. if they use a health potion it will increase their health levels. they will also     have the opportunity   to pick up weapons and use them against the enemy.
+- Play by programming: Gameplay will forego traditional input devices such as a mouse or gamepad and be controlled via writing code into   a live text editor.  Everything from movement, inventory management, to battle will be handled via code.
 
+- Exporation: Players are placed in a game world where they must find certain items and complete certain objectives to advance in the     game.  The world map will be divided into different elemental 'zones' where each enemy has an item that is necessary to defeat the       final boss.
+
+- Equipment/Inventory: Players may equip weapons/armor they find in the game to their character, providing different benefits.  They       will also have a persistent inventory throughout the game for storing different items needed to advance within the game.  This           inventory system will be handled via code.  Ex. Equip("charName", "itemName");
+
+- Turn/timer based battle: Battle system will operate both by turn and by timer.  On the player's turn, they will have a specified         amount of time to complete a coding problem before their turn ends.  Their success of failure will determine if they are able to         attack, or whether the enemy attacks them.  Coding challenges will consist of things like setting a value to a variable, calling a       pre-defined function, or performing an action within a for loop (an incredibly high count of say, 1000 can be used to ensure a loop     must be utilized)
     
 ## Feedback
 
@@ -156,14 +173,9 @@ when you start up the game, you will be welcomed to the start screen. the start 
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
 - Music List (Ambient sound)
   - loading screen/start screen: calm flowing music
   - battle scene: exciting music to get the player going.
-  
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
   - *player attacks*: *enemy player attacks*, *user player attaks*

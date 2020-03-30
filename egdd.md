@@ -115,7 +115,12 @@ This is a single player game.  The player will interact with the game by writing
 
 # Objects/Entities
 
-weapons, sheild, potions.
+- Three controllable player characters in the classes of warrior, mage, and ranger
+- 4 elemental themed enemies and a final boss, each in their own zone on the main map
+- A main game window in the upper left corner of the screen, containing all of the game content, surrounded by UI panels including:
+  - A code editor on the bottom right of the screen
+  - A section containing 'submit' and 'reset' buttons to the right of the code editor, for submitting code or clearing the field
+  - A text display on the right side of the screen for displaying instructions, hints, and and challenges
 
 ## Core Gameplay Mechanics (Detailed)
 
@@ -129,9 +134,7 @@ weapons, sheild, potions.
     
 ## Feedback
 
-if they player gets an answer correct, a small sound will be played to indicate success or progression. then another uplifting sound will be played when they attack an enemy. if they get it wrong, there will be a sound indicating they got it wrong. Then a sound will be played when the enemy attacks the player. 
-
-longterm feedback that the player will recieve is the music getting faster. another indication they will recieve is the problems getting slighlty harder. the enemy health will also be displayed so they can keep track of their progression.
+On successful completion of a coding a challenge, the player will be free to attack the enemy - bringing them closer to victory.  Each incorrect answer will bring the player closer to defeat.  This will be visible through health bars for both the player and the enemy, which once depleted will result in either victory or defeat.  Victory results in an uplifting victory theme song being played and 'loot' being dropped by the enmy, which the player must collect and use to advance in the story.  Defeat results in a dark, gloomy melody played and restarts the current battle
 
 # Story and Gameplay
 

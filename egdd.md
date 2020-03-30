@@ -1,8 +1,10 @@
 # Game Name
+code warrior
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+picture a game where you can code to play. there are no moves with buttons or mouse, but rather write code to control the game.
+this game has an rpg design and a fantasy theme to it. the game can be won by getting enough challenges correct to defeat the enemy player. This game will help players improve their coding abilities for some concepts. 
 
 ## Influences (Brief)
 
@@ -80,21 +82,20 @@ This is a single player game.  The player will interact with the game by writing
     - Description: write executable code under a specified time that solves the problem being asked in able to attack the enemy.
     - Alignment: this aligns with the learning objects because it gives students the ability to write code that can give them practice        and understanding with a specific topic. for example one problem could be "call function foo to attack enemy".
 - *Primary Objective #2*:
-    - Description: 
-    - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+    - Description: defeat the enemy by getting alot more right. 
+    - Alignment: this aligns with the learning objects because it will advance you to the other learning objectives in the game. for        example once you get assignment to a variable correct after a couple times, the player will be challenged for "for loops" etc..
+
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+solve the question being asked. if correct, player will atack enemy. if wrong, enemy will attack player. 
 
 # Rules
-
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+there will be health potions, armor weapons. these will affect the game by increasing health and also increasing the damage to the enemy player. these pickups will be limited. 
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+weapons, sheild, potions.
 
 ## Core Gameplay Mechanics (Detailed)
 
@@ -159,8 +160,8 @@ when you start up the game, you will be welcomed to the start screen. the start 
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - loading screen/start screen: calm flowing music
+  - battle scene: exciting music to get the player going.
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 

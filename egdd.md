@@ -186,9 +186,12 @@ The aesthetics should be reminiscent of old-school 2D RPG games in the style of 
   - battle scene: exciting music to get the player going.
 
 - Sound List (SFX)
-  - *player attacks*: *enemy player attacks*, *user player attaks*
-  - *progression*: *getting a challenge correct*, *defeating an enemy*
-
+  - battle: 
+    - attack sounds
+    - magic sounds
+  - progression: 
+    - player defeat music
+    - player victory music
 
 # Metadata
 

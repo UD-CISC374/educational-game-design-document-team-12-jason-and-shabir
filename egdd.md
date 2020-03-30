@@ -43,9 +43,9 @@ Introductory javascript/typescript
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- *assignment of variables*: *by the end of this game, given a variable, students will be able to assign values to that variable.*
+- *iterations*: *by the end of this game, students given a task that requires several iterations, will be able to build a "for loop" to accomplish that task.  *
+- *function calls*: *by the end of this game, students will be able to show how to call a function given the function*
 
 ## Prerequisite Knowledge
 
@@ -57,9 +57,7 @@ Prior to playing, students should be able to:
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
-
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+students will be given problems to solve during the game and their answers to the problem will determine how far they have gotten along in the lesson.
 
 # What sets this project apart?
 
@@ -79,10 +77,10 @@ This is a single player game.  The player will interact with the game by writing
 # Gameplay Objectives
 
 - *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+    - Description: write executable code under a specified time that solves the problem being asked in able to attack the enemy.
+    - Alignment: this aligns with the learning objects because it gives students the ability to write code that can give them practice        and understanding with a specific topic. for example one problem could be "call function foo to attack enemy".
 - *Primary Objective #2*:
-    - Description: *Description*
+    - Description: 
     - Alignment: *Describe how this aligns with one or more learning objectives*
 - *etc.*
 
@@ -107,27 +105,27 @@ This is a single player game.  The player will interact with the game by writing
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
+if they player gets an answer correct, a small sound will be played to indicate success or progression. then another uplifting sound will be played when they attack an enemy. if they get it wrong, there will be a sound indicating they got it wrong. Then a sound will be played when the enemy attacks the player. 
 
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+longterm feedback that the player will recieve is the music getting faster. another indication they will recieve is the problems getting slighlty harder. the enemy health will also be displayed so they can keep track of their progression.
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+there will be some examples shown on what is expected and how to enter their answers. a small text box will be designated for advice and information on the game as well as each type of problem
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+The player will be given a short problem in text on a screen. players will have to write up code to be able to solve that challenge given. They will then be shown how many they got right and wrong.
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+the player will be given 3 characters to use against the enemy. the player will be given a challenge to solve. if the player gets the challenge correct, they can advance on the enemy and attack them. if they get it wrong, they player will attack one of their characters. you lose if all of your characters are defeated. you win if you defeat the enemy. 
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+when you start up the game, you will be welcomed to the start screen. the start screen will have a background image, a text box below it to enter code, and a box that contains buttons to inject the code you have entered. on the start screen, the way you can advance to the battle, you will have to call a function that takes you to the next scene (the battle scene). once you are in the battle scene, you will have 3 characters you can play with and one enemy player. There will be a timer. you will be timed to answer each question. if you run out of time, the enemy will attack one of your character. If you answer the question right, you will be able to advance an attack on the enemy and the enemy will not be able to attack your characters. the way you will be able to win is if you have atleast one character remaining and you have solved enough challanges to kill your enemy. then you will be shown how many questions you got right and wrong and where you can improve. 
 
 # Assets Needed
 
@@ -167,8 +165,8 @@ This is a single player game.  The player will interact with the game by writing
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - *player attacks*: *enemy player attacks*, *user player attaks*
+  - *progression*: *getting a challenge correct*, *defeating an enemy*
 
 
 # Metadata

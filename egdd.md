@@ -81,17 +81,21 @@ This is a single player game.  The player will interact with the game by writing
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
+- Primary Objective #1:
     - Description: write executable code under a specified time that solves the problem being asked in able to attack the enemy.
     - Alignment: this aligns with the learning objects because it gives students the ability to write code that can give them practice        and understanding with a specific topic. for example one problem could be "call function foo to attack enemy".
-- *Primary Objective #2*:
-    - Description: defeat the enemy by getting alot more right. 
-    - Alignment: this aligns with the learning objects because it will advance you to the other learning objectives in the game. for        example once you get assignment to a variable correct after a couple times, the player will be challenged for "for loops" etc..
-
+- Primary Objective #2:
+    - Description: Defeat the final boss 
+    - Alignment: Defeating the final boss means the player has mastered all of the coding challenges present in the game and is               therefore now a master of for loops, function calls, and variable assignment
 
 # Procedures/Actions
 
-solve the question being asked. if correct, player will atack enemy. if wrong, enemy will attack player. 
+- The main game map will feature a number of predefined functions that are accessible to the user
+  - Move("location"); - Move the player party to the specified location on the map
+  - ShowInventory(); - Bring up the inventory management window
+  - CloseInventory(); - Close the inventory management window
+  - Equip("characterName", "itemName"); - Equip the specified item to the specified character
+ 
 
 # Rules
 
@@ -135,7 +139,7 @@ there will be some examples shown on what is expected and how to enter their ans
 
 ## Presentation of Content
 
-The player will be given a short problem in text on a screen. players will have to write up code to be able to solve that challenge given. They will then be shown how many they got right and wrong.
+Earlier stages of the game will feature some hints on the nature of the problem asked.  General structure of a for loop, etc.  But the general structures that will be asked are expected to be somewhat familiar before the game is played.
 
 ## Story (Brief)
 

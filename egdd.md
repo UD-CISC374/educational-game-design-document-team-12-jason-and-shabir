@@ -30,7 +30,7 @@ this game has an rpg design and a fantasy theme to it. the game can be won by ge
 
 ## Learning Domains
 
-Introductory javascript/typescript
+Introductory javascript/Typescript
 
 ## Target Audiences
 
@@ -95,8 +95,10 @@ This is a single player game.  The player will interact with the game by writing
   - ShowInventory(); - Bring up the inventory management window
   - CloseInventory(); - Close the inventory management window
   - Equip("characterName", "itemName"); - Equip the specified item to the specified character
+  
+ - The battle state of the game will feature a mixture of predefined functions and raw code
+  - Attack(); - Attack the enemy with the current player character
  
-
 # Rules
 
 - A player has a certain amount of time to answer a coding challenge displayed on screen
@@ -135,11 +137,11 @@ longterm feedback that the player will recieve is the music getting faster. anot
 
 ## Presentation of Rules
 
-there will be some examples shown on what is expected and how to enter their answers. a small text box will be designated for advice and information on the game as well as each type of problem
+A welcome screen will show explain the basic structure of the game and how to play.  Each game state will feature a list of available functions that a player can call, and hints on how to interact with the game.
 
 ## Presentation of Content
 
-Earlier stages of the game will feature some hints on the nature of the problem asked.  General structure of a for loop, etc.  But the general structures that will be asked are expected to be somewhat familiar before the game is played.
+Earlier stages of the game will feature some hints on the nature of the problem asked - general structure of a for loop, etc.  But the structures that will be asked are expected to be somewhat familiar before the game is played.
 
 ## Story (Brief)
 
@@ -152,6 +154,8 @@ when you start up the game, you will be welcomed to the start screen. the start 
 # Assets Needed
 
 ## Aethestics
+
+The aesthetics should be reminiscent of old-school 2D RPG games in the style of Chrono Trigger, Final Fantasy, Dragon Warrior, etc.  A colorful game world with elemental themed zones.  Mild combat, no blood and gore.  Somewhat lightheartedly styled characters.
 
 ## Graphical
 

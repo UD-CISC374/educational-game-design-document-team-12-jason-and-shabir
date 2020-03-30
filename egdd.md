@@ -57,7 +57,7 @@ Prior to playing, students should be able to:
 
 ## Assessment Measures
 
-students will be given problems to solve during the game and their answers to the problem will determine how far they have gotten along in the lesson.
+students will be given problems to solve during the game and their answers to the problem will determine how far they have gotten along in the lesson. also the enemy health and player health will display their progression.
 
 # What sets this project apart?
 
@@ -98,9 +98,9 @@ This is a single player game.  The player will interact with the game by writing
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+- live coding: the controls in this game are basically how you make attacks, defend etc... players will write code in a live coding       environment via codemirror, where their code will be injected into the game to be evaluted for accuracy. they will be asked to answer   problems by writing code. once their code is submitted by a submit button, we will run a test on his code to make sure it works         properly.   
+- turn based game : the player will be given a time limit. the time will depend on the diffuctulty of the problem. if the problem is     easy, they will get 5 seconds. if it is hard then 10 seconds. an example of an easy challenge will be an assignment of a variable. an   example of a difficult problem would be a for loop. if the player gets the answer right, he will be able to attack the enemy and       damage them. if the fail, the enemy will attack the player. 
+- Equipment/Inventory: player will get the opportunity to pick up an item such as armor or a potion, that will help them in battle.       they will be able to pick up/ use the inventory via code. for example if a sheild presents itself in the game, the player will type     something like: pickUpShield(); which calls a function to pick up the item. the armor will act as extra health in such a way that it   does not affect     the main health of the player. if they use a health potion it will increase their health levels. they will also     have the opportunity   to pick up weapons and use them against the enemy.
 
     
 ## Feedback

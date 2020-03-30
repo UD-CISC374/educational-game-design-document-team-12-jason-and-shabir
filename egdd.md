@@ -120,7 +120,7 @@ This is a single player game.  The player will interact with the game by writing
 - A main game window in the upper left corner of the screen, containing all of the game content, surrounded by UI panels including:
   - A code editor on the bottom right of the screen
   - A section containing 'submit' and 'reset' buttons to the right of the code editor, for submitting code or clearing the field
-  - A text display on the right side of the screen for displaying instructions, hints, and and challenges
+  - A text display on the right side of the screen for displaying instructions, hints, and challenges
 
 ## Core Gameplay Mechanics (Detailed)
 
@@ -140,7 +140,7 @@ On successful completion of a coding a challenge, the player will be free to att
 
 ## Presentation of Rules
 
-A welcome screen will show explain the basic structure of the game and how to play.  Each game state will feature a list of available functions that a player can call, and hints on how to interact with the game.
+A welcome screen will explain the basic structure of the game and how to play.  Each game state will feature a list of available functions that a player can call, and hints on how to interact with the game.
 
 ## Presentation of Content
 

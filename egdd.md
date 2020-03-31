@@ -3,8 +3,7 @@ code warrior
 
 ## Elevator Pitch
 
-picture a game where you can code to play. there are no moves with buttons or mouse, but rather write code to control the game.
-this game has an rpg design and a fantasy theme to it. the game can be won by getting enough challenges correct to defeat the enemy player. This game will help players improve their coding abilities for some concepts. 
+Are you a fan of RPG games?  Well here's one with a twist.  You play the entire game by writing code.
 
 ## Influences (Brief)
 
@@ -148,11 +147,9 @@ Earlier stages of the game will feature some hints on the nature of the problem 
 
 ## Story (Brief)
 
-the player will be given 3 characters to use against the enemy. the player will be given a challenge to solve. if the player gets the challenge correct, they can advance on the enemy and attack them. if they get it wrong, they player will attack one of their characters. you lose if all of your characters are defeated. you win if you defeat the enemy. 
+An evil presence has ascended upon the land.  You must harness the power of the elements (and show off your coding skills) to bring balance back to the world.
 
 ## Storyboarding
-
-when you start up the game, you will be welcomed to the start screen. the start screen will have a background image, a text box below it to enter code, and a box that contains buttons to inject the code you have entered. on the start screen, the way you can advance to the battle, you will have to call a function that takes you to the next scene (the battle scene). once you are in the battle scene, you will have 3 characters you can play with and one enemy player. There will be a timer. you will be timed to answer each question. if you run out of time, the enemy will attack one of your character. If you answer the question right, you will be able to advance an attack on the enemy and the enemy will not be able to attack your characters. the way you will be able to win is if you have atleast one character remaining and you have solved enough challanges to kill your enemy. then you will be shown how many questions you got right and wrong and where you can improve. 
 
 # Assets Needed
 

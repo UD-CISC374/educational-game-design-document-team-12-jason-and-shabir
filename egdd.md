@@ -54,9 +54,10 @@ Introductory javascript/Typescript
 
 Prior to playing, students should be able to:
 - Assign a value to a variable
-- Define and use for and while loops
 - Define and use if/else statements
 - Call a function
+
+
 
 ## Assessment Measures
 

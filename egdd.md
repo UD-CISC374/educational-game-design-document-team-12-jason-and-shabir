@@ -46,7 +46,7 @@ Introductory javascript/Typescript
 
 - Function calls: by the end of this game, students will be able to show how to call a given function and supply it with the correct       arguments needed to run
 
-# Edit - we've decided that at a minumum, these learning objectives are necessary for the game to be playable with our new focus on incorporating more RPG elements and less chocolate covered broccoli.  Attacks and spells will be handled via function calls, and general battle mechanics will be handled via if/else statements.  Ex. Attack(ogre);  if(OgreIsUsingBigPainfulWeaponNextTurn) defend();.  I believe these mechanics will be simple to implement with the new scope.
+## Edit - we've decided that at a minumum, these learning objectives are necessary for the game to be playable with our new focus on incorporating more RPG elements and less chocolate covered broccoli.  Attacks and spells will be handled via function calls, and general battle mechanics will be handled via if/else statements.  Ex. Attack(ogre);  if(OgreIsUsingBigPainfulWeaponNextTurn) defend();.  I believe these mechanics will be simple to implement with the new scope.
 
 ## Prerequisite Knowledge
 
@@ -189,13 +189,13 @@ The aesthetics should be reminiscent of old-school 2D RPG games in the style of 
     - player defeat music
     - player victory music
     
-  ## Addressing Other Games
+  # Addressing Other Games
   
-  # Code Spells - This game appears to be more drag and drop / UI oriented than writing actual code, so I don't consider it to be in the   same realm of game that we are trying to make.  The comparison would be akin to designing a website via Wordpress vs. actually writing   all of the code by hand.
+  ## Code Spells - This game appears to be more drag and drop / UI oriented than writing actual code, so I don't consider it to be in the   same realm of game that we are trying to make.  The comparison would be akin to designing a website via Wordpress vs. actually writing   all of the code by hand.
   
-  # Adventure Land - This game is similar to the game we are trying to produce, but is much less beginner friendly.  Our game is meant to be for beginners, while it would appear Adventure Land dives into deeper concepts pf programming such as defining actual classes.  In addition the style of RPG is different.  Adventure Land appears to be more in the style of Zelda while our game is more like Final Fantasy.
+  ## Adventure Land - This game is similar to the game we are trying to produce, but is much less beginner friendly.  Our game is meant to be for beginners, while it would appear Adventure Land dives into deeper concepts pf programming such as defining actual classes.  In addition the style of RPG is different.  Adventure Land appears to be more in the style of Zelda while our game is more like Final Fantasy.
   
-  # Code Combat - Out of the 3 games this one is probably the most similar to what we are trying to do, but my argument would be that it   appeals to the ABSOLUTE beginner.  I played the game for around 30 minutes and the first few levels were very repetitive moveLeft()     moveRight() commands.  Not very engaging for someone that already knows a bit of code and is just looking to play a game to keep their   skills fresh.  Our game would strive to be better than this.
+  ## Code Combat - Out of the 3 games this one is probably the most similar to what we are trying to do, but my argument would be that it   appeals to the ABSOLUTE beginner.  I played the game for around 30 minutes and the first few levels were very repetitive moveLeft()     moveRight() commands.  Not very engaging for someone that already knows a bit of code and is just looking to play a game to keep their   skills fresh.  Our game would strive to be better than this.
 
 # Metadata
 
